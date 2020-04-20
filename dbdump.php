@@ -23,10 +23,10 @@ include('config.php');
 
 
 
-    $mysqlUserName      = "id13362381_test1";
-    $mysqlPassword      = "OPtWKTBl)s7*D7{=";
+    $mysqlUserName      = "";
+    $mysqlPassword      = "";
     $mysqlHostName      = "localhost";
-    $DbName             = "id13362381_test";
+    $DbName             = "";
     $backup_name        = "mybackup.sql";
     $tables             = "";
 
